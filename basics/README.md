@@ -12,3 +12,4 @@
 12-file_type : Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
 15-lets_move: Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
 16-clean_emacs : Create a script that deletes all files in the current working directory that end with the character ~.
+17-tree : Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
